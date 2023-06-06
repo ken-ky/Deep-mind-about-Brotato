@@ -1,0 +1,5 @@
+train: C:/Users/Administrator/Desktop/brotato_character/yolo/yolov7-main/brotatodateset/train/images
+val: C:/Users/Administrator/Desktop/brotato_character/yolo/yolov7-main/brotatodateset/valid/images
+
+nc: 1
+names: ['character']
